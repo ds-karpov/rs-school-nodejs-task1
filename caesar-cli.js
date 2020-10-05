@@ -1,3 +1,3 @@
-const script = require("./caesar-cipher-cli/index.js");
+const script = require("./caesar-cipher-cli");
 
 script();
