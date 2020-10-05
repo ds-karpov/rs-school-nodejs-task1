@@ -1,0 +1,26 @@
+{
+  "name": "caesar-cipher-cli",
+  "version": "1.0.0",
+  "description": "CLI for encoding and decoding english text via caesar cipher",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds-karpov/rs-school-nodejs-task1.git"
+  },
+  "keywords": [
+    "rs-school",
+    "nodejs-course"
+  ],
+  "author": "https://github.com/ds-karpov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds-karpov/rs-school-nodejs-task1/issues"
+  },
+  "homepage": "https://github.com/ds-karpov/rs-school-nodejs-task1#readme",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
